@@ -1,0 +1,23 @@
+.mainborder  {
+position: absolute;
+width:  300px;
+height: auto;
+line-height: 1px;
+margin; 5px;
+padding: 20px;
+border: 1px solid grey;
+box-shadow: 10px 10px 5px grey;
+
+}
+.listborder {
+	position: relative;
+	padding: 20px;
+	margin-top: 15px;
+    margin; 5px;
+	border: 1px solid grey;
+	line-height: 1em;
+	list-style-type: none;
+}
+p.small {
+    line-height: 10%;
+}
